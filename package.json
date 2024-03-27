@@ -1,0 +1,14 @@
+{
+  "name": "fyrehyer",
+  "version": "1.0.0",
+  "description": "<!--\r **FyreHyer/FyreHyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
+}
