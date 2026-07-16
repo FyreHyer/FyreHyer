@@ -1,39 +1,45 @@
-## Hi there Afif here👋
-
-<!--
 # Wan Muhammad Afif
 
-Computer Engineering Graduate building across embedded hardware, computer vision, and applied AI. Currently open to graduate roles starting August 2026.
+Computer Engineering graduate at **UTeM** building at the intersection of **embedded systems**, **computer vision**, and **applied AI**.  
+Currently open to **graduate roles starting August 2026**.
 
-- Thesis: PCB defect detection using YOLOv12 with CLAHE + bilateral filtering preprocessing
-- Interned at ROHM Electronics Malaysia — IT infrastructure & AI chatbot development
-- Based in Petaling Jaya, Selangor — open to relocating
+- 🎓 Thesis: **PCB defect detection** using **YOLOv12** with **CLAHE + bilateral filtering** preprocessing
+- 💼 Internship: **ROHM Electronics Malaysia** — IT infrastructure support & AI chatbot development
+- 📍 Based in **Petaling Jaya, Selangor** — open to relocation
 
-**Reach me:** [email](mailto:afifb130@gmail.com) · [LinkedIn](https: www.linkedin.com/in/fyrehyer) · [Portfolio](https://FyreHyer.github.io)
+**Reach me:** [Email](mailto:afifb130@example.com) · [LinkedIn](https://www.linkedin.com/in/fyrehyer) · [Portfolio](https://fyrehyer.github.io)
 
 ---
 
-### Projects
+## Projects
 
-**[PCB Defect Detection — YOLOv12](https://github.com/wmafif/pcb-defect-detection)**
-Compared YOLOv8n, YOLOv11n, and YOLOv12n for automated PCB defect detection, with an optimized CLAHE + bilateral filtering preprocessing pipeline. Achieved +4.94% mAP@50 over the published YOLOv12n baseline.
+### [PCB Defect Detection — YOLOv12](https://github.com/fyrehyer/pcb-defect-detection-yolov12)
+Benchmarked YOLOv8n, YOLOv11n, and YOLOv12n for automated PCB defect detection, with an optimized CLAHE + bilateral filtering preprocessing pipeline.  
+Improved performance by **+4.94% mAP@50** over the published YOLOv12n baseline.  
 `Python` `Ultralytics YOLO` `OpenCV`
 
-**[REMABot — Offline RAG Chatbot](https://github.com/wmafif/remabot)**
-Retrieval-augmented chatbot that runs fully offline, combining local embeddings and vector search with an open-weight LLM for private Q&A.
+### [REMABot — Offline RAG Chatbot](https://github.com/fyrehyer/remabot)
+Built a fully offline retrieval-augmented chatbot using local embeddings + vector search + open-weight LLM for privacy-first Q&A.  
 `LangChain` `LlamaIndex` `ChromaDB` `Mistral`
 
-**[IoT Air Quality Monitoring](https://github.com/wmafif/iot-air-quality)**
-Sensor network for real-time air quality tracking, using a Random Forest model to classify pollution levels from live sensor data.
+### [IoT Air Quality Monitoring](https://github.com/fyrehyer/iot-air-quality)
+Developed a real-time air-quality monitoring system and used a Random Forest model to classify pollution levels from live sensor data.  
 `ESP32` `Raspberry Pi` `Arduino` `scikit-learn`
 
 ---
 
-### Skills
+## Skills
 
 | Category | Tools |
 |---|---|
 | Programming | Python, C/C++ |
 | AI / ML | Ultralytics YOLO, scikit-learn, LangChain, LlamaIndex, ChromaDB, Mistral |
 | Embedded & IoT | Raspberry Pi, Arduino, ESP32 |
-| Networking & IT Infra | PC hardware, network device setup, server maintenance |
+| Networking & IT Infrastructure | PC hardware, network device setup, server maintenance |
+
+---
+
+## Currently Focused On
+- Improving model robustness for real-world computer vision deployment
+- Building practical AI systems that run efficiently on limited hardware
+- Expanding portfolio projects with better documentation and demos
